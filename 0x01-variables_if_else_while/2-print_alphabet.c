@@ -13,12 +13,12 @@ int n;
 
 n = 97;
 
-while (n <= 122)
+while (n < 123)
 {
 putchar(n);
-putchar('\n');
 n++;
 }
+putchar('\n');
 
 return (0);
 }

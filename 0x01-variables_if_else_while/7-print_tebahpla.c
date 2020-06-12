@@ -11,9 +11,9 @@ int main(void)
 
 int n;
 
-n = 123;
+n = 122;
 
-while (n > 97)
+while (n > 96)
 {
 putchar(n);
 n--;

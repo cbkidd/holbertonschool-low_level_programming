@@ -24,7 +24,7 @@ while (ii < 58)
 {
 putchar(i);
 putchar(ii);
-if (i == 57 && ii== 57)
+if (i == 57 && ii == 57)
 {
 break;
 }

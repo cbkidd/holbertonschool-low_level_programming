@@ -2,7 +2,7 @@
 
 /**
 * _islower - returns 1 if c is lowercase
-*
+* @c: ascii value tested
 * Return: 0, or 1
 */
 

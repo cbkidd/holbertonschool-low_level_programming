@@ -1,4 +1,6 @@
 #include "holberton.h"
+#include <stdio.h>
+
 /**
 * main - prints fizz, buzz, fizzbuzz, and i depending on conditions
 *

@@ -13,7 +13,7 @@ for (; *s != '\0'; s++)
 {
 continue;
 }
-for (; *s >= 0; s--)
+for (s = s - 1; *s > 0; s--)
 {
 _putchar(*s);
 }

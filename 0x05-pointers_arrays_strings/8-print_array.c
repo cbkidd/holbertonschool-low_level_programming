@@ -1,4 +1,6 @@
-nclude "holberton.h"
+#include "holberton.h"
+#include <stdio.h>
+
 /**
 * print_array - prints an array
 * @a: input array

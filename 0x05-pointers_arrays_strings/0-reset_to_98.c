@@ -11,11 +11,5 @@
 
 void reset_to_98(int *n)
 {
-int var;
-int *n;
-
-var = 0;
-n = &var;
 *n = 98;
-
 }

@@ -19,9 +19,12 @@ j = 0;
 		i++;
 	}
 
-	while ((dest[i] = src[j]))
+	while (src[j])
 	{
+		dest[i] = src[j];
 		j++;
+		i++;
 	}
+dest[i] = '\0';
 return (dest);
 }

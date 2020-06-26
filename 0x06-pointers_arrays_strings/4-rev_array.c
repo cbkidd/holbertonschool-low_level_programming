@@ -1,9 +1,9 @@
 #include "holberton.h"
 
 /**
-* rev_string - reverse string
-*
-* @s: string
+* reverse_array - reverse array
+* @n; length of array
+* @a: array
 *
 */
 
@@ -13,7 +13,7 @@ int i;
 int t;
 int j;
 j = 0;
-
+i = 0;
 	while (i < n - 1)
 	{
 		i++;

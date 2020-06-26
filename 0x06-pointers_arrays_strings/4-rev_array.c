@@ -2,7 +2,7 @@
 
 /**
 * reverse_array - reverse array
-* @n; length of array
+* @n: length of array
 * @a: array
 *
 */

@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
-* strstr - finds sub string
+* _strstr - finds sub string
 *
 * @haystack: main string
 * @needle: substring

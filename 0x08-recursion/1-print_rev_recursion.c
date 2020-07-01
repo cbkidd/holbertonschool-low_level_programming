@@ -3,7 +3,7 @@
 /**
 * _print_rev_recursion - prints string in recursion
 *
-* @s; string
+* @s: string
 *
 */
 

@@ -7,8 +7,8 @@
 
 int is_palindrome(char *s)
 {
-if (s)
+if (s == s)
 {
-return (s);
+return (1);
 }
 }

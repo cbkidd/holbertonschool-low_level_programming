@@ -1,10 +1,10 @@
 #include "holberton.h"
 int squarerooter(int i, int n);
 /**
- * _sqrt_recursion - returns natural square root
- * @n: number to find square of
- * Return: square root
- */
+* _sqrt_recursion - returns natural square root
+* @n: number to find square of
+* Return: square root
+*/
 int _sqrt_recursion(int n)
 {
 	int x;
@@ -14,11 +14,11 @@ int _sqrt_recursion(int n)
 	return (x);
 }
 /**
- * squarerooter - checks for square roots
- * @i: start of check for square
- * @n: number we find square of
- * Return: square root
- */
+* squarerooter - checks for square roots
+* @i: start of check for square
+* @n: number we find square of
+* Return: square root
+*/
 int squarerooter(int i, int n)
 {
 	int x;

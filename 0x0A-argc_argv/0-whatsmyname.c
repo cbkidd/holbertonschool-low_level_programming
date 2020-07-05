@@ -2,7 +2,8 @@
 
 /**
 * main - declres name of file
-*
+* argc: string position
+* argv: string index
 * Return: 0
 */
 

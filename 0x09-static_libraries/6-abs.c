@@ -2,9 +2,7 @@
 
 /**
 * _abs - calculates absolute values
-*
 * @n: random number
-*
 * Return: absoulte value of n
 */
 

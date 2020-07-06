@@ -2,10 +2,8 @@
 
 /**
 * _strstr - finds sub string
-*
 * @haystack: main string
 * @needle: substring
-*
 * Return: 0
 */
 

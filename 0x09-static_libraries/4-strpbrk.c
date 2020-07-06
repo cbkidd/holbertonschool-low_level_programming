@@ -2,10 +2,8 @@
 
 /**
 * _strpbrk - compares string to substring and counts matches
-*
 * @s: string
 * @accept: accepted matches
-*
 * Return: s
 */
 

@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
-* strdup - copies string into new allocation of mem
+* _strdup - copies string into new allocation of mem
 *
 * @str: pointer to array
 *

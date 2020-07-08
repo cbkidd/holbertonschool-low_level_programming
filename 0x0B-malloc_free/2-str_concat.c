@@ -14,9 +14,9 @@ if (s == NULL)
 	return (0);
 }
 
-while (s[i])
+for (i = 0; i != '\0'; i++)
 {
-	i++;
+	continue;
 }
 
 return (i);

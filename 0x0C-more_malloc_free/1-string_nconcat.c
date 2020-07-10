@@ -54,7 +54,7 @@ if (a == NULL)
 {
 	free(a);
 	return (NULL);
-}	
+}
 
 for (i = 0; i < len1; i++)
 {

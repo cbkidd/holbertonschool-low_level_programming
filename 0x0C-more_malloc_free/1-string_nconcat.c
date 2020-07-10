@@ -12,7 +12,7 @@ int _strlen(char *s)
 
 int i;
 
-if (s = NULL)
+if (s == NULL)
 	return (0);
 
 for (i = 0; s[i] != '\0'; i++)
@@ -48,7 +48,7 @@ if (s1 == NULL)
 if (s2 == NULL)
 	s2 = "";
 
-a = malloc(sizeof(char) * (s1 + n + 1));
+a = malloc(sizeof(char) * (len1 + n + 1));
 
 if (a == NULL)
 {

@@ -3,5 +3,5 @@
 
 int main(void)
 {
-printf("%s", __file__);
+printf("%s\n", __FILE__);
 }

@@ -20,7 +20,6 @@ char *n = name;
 char *o = owner;
 
 newgoodboi = malloc(sizeof(dog_t));
-
 if (newgoodboi == NULL)
 	return (NULL);
 

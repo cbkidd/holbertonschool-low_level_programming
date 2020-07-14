@@ -66,7 +66,10 @@ char *o = _strdup(owner);
 
 newgoodboi = malloc(sizeof(dog_t));
 if (newgoodboi == NULL)
+	{
+	free(newgoodboi);
 	return (NULL);
+	}
 
 newgoodboi->name = n;
 newgoodboi->age = age;

@@ -4,7 +4,7 @@
 * _puts - puts string
 *
 * @str: string
-* 
+*
 */
 
 void _puts(char *str)

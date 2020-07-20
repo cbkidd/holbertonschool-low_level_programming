@@ -2,7 +2,7 @@
 
 /**
 * print_numbers - print numbers passed with a comma and space
-* @sepertor: comma space
+* @separator: comma space
 * @n: number of ints to print
 *
 *

@@ -23,7 +23,7 @@ va_start(list_of_format, format);
 	{
 		case 's':
 			stringarg = va_arg(list_of_format, char *);
-			if (stringarg == NULL)
+				if (stringarg == NULL)
 				{
 					printf("(nil)");
 				}

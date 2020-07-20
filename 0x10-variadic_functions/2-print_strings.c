@@ -37,9 +37,5 @@ if (separator != NULL && i < (n - 1))
 
 }
 printf("\n");
-
-if (va_arg(list, char*) == NULL)
-	printf("(nil)");
-
 va_end(list);
 }

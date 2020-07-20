@@ -23,13 +23,10 @@ va_start(list, n);
 for (i = 0; i < n; i++)
 {
 	printf("%d", va_arg(list, int));
-if (i < (n - 1))
+if (separator != NULL && i < (n - 1))
 {
 	printf("%s", separator);
 }
-
-if (separator == NULL)
-	break;
 }
 printf("\n");
 va_end(list);

@@ -27,6 +27,9 @@ if (i < (n - 1))
 {
 	printf("%s", separator);
 }
+
+if (separator == NULL)
+	break;
 }
 printf("\n");
 va_end(list);
